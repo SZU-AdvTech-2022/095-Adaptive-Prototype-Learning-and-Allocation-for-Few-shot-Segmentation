@@ -1,0 +1,7 @@
+@inproceedings{li2021adaptive,
+  title={Adaptive Prototype Learning and Allocation for Few-shot Segmentation},
+  author={Li, Gen and Jampani, Varun and Sevilla-Lara, Laura and Sun, Deqing and Kim, Jonghyun and Kim, Joongkyu},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={8334--8343},
+  year={2021}
+}
